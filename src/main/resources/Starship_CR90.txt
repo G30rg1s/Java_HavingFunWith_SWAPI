@@ -1,0 +1,18 @@
+CR90 corvette
+CR90 corvette
+Corellian Engineering Corporation
+3500000
+150
+950
+30-165
+600
+3000000
+1 year
+2.0
+60
+corvette
+(empty)
+https://swapi.dev/api/films/1/,https://swapi.dev/api/films/3/,https://swapi.dev/api/films/6/
+2014-12-10T14:20:33.369000Z
+2014-12-20T21:23:49.867000Z
+https://swapi.dev/api/starships/2/

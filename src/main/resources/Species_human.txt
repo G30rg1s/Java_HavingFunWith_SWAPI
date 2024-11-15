@@ -1,0 +1,15 @@
+Human
+mammal
+sentient
+180
+caucasian, black, asian, hispanic
+blonde, brown, black, red
+brown, blue, green, hazel, grey, amber
+120
+https://swapi.dev/api/planets/9/
+Galactic Basic
+https://swapi.dev/api/people/66/,https://swapi.dev/api/people/67/,https://swapi.dev/api/people/68/,https://swapi.dev/api/people/74/
+https://swapi.dev/api/films/1/,https://swapi.dev/api/films/2/,https://swapi.dev/api/films/3/,https://swapi.dev/api/films/4/,https://swapi.dev/api/films/5/,https://swapi.dev/api/films/6/
+2014-12-10T13:52:11.567000Z
+2014-12-20T21:36:42.136000Z
+https://swapi.dev/api/species/1/
